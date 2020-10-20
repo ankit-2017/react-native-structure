@@ -1,4 +1,4 @@
-/** 
+/**
  * define all colors here as constants
  */
 export const PRIMARY = '#1779ba';
